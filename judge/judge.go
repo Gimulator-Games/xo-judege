@@ -5,8 +5,7 @@ import (
 	"os"
 	"time"
 
-	"gitlab.com/Syfract/Xerac/gimulator-archive/gimulator-test/world"
-
+	"github.com/Gimulator-Games/xo-judege/world"
 	"github.com/Gimulator/client-go"
 )
 
